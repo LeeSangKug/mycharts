@@ -3,12 +3,12 @@ entries:
   eventapp-lab18:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-31T17:43:10.751949+09:00"
+    created: "2020-08-31T18:32:45.127908+09:00"
     description: A Helm chart for Kubernetes
-    digest: 12aa84a6445e1fb418cbd5b32b6616db36f0aa1960753d8b4d74b75c3af90ebf
+    digest: 9c0acf1587beae6d7e0f4d66cece5b3792231730074820a25ab8011e45da85b0
     name: eventapp-lab18
     type: application
     urls:
     - https://leesangkug.github.io/mycharts/eventapp-lab18-0.1.0.tgz
     version: 0.1.0
-generated: "2020-08-31T17:43:10.748771+09:00"
+generated: "2020-08-31T18:32:45.118318+09:00"
